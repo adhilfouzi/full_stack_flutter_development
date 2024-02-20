@@ -1,0 +1,154 @@
+### Week Dart:-
+
+late,
+Null aware operators
+Final keyword
+Fat- arrow   
+Compile vs runtime
+For in system
+Default parameter
+parameter types in functions,
+Named parameter
+pass parameter in post,
+cascade operator,
+ternary operator,
+Isolate
+Await
+Try catch
+late
+Break & continue
+static
+Null safety
+forEach
+Key value pair
+Type conversion
+toUpperCase
+Trim
+Print a list second last element
+List CRUD
+Need to practise code
+Identifiers
+Future
+Enumerator
+Async
+Stream
+Class and object
+Multiple inheritance
+Exceptions
+Factory constructors
+Dart Advantages
+Core Libraries
+Supplementary modes Checked modes
+Enumerator
+Operands 
+Spread Operators
+Isolates Async
+Tikhin
+Streams
+Runes
+Future
+Var vs dynamic
+ticker,
+
+
+
+### Week flutter:-
+Appstate
+lifecycle
+buildmodes
+expandable 
+flexible
+state
+navigator function
+align widget
+form widget
+overflow in screen 
+main vs runnApp
+Layout widget
+platform specific widget
+stateful widget lifecycle
+Build context 
+build modes :- debug, release, profile
+Container vs sized box
+packages vs plugins
+Expandable vs flexible
+profile mode,
+preferedsize widget,
+constraintbox
+inkwell-gesture,
+expanded-flexible,
+form,
+textfield vs textformfield,
+package-plugin,
+method channel,
+flutter inspector,
+gradient color,
+gesture detector,
+method channel,
+package-plugin,
+
+### Week DB:-
+version in db,
+Sql & noSql
+profile
+do applications in sqflite
+search
+edit
+valuenotifier
+primary & foreign key
+edit/delete option in search
+search query
+Add image 
+search student
+populate current data while editing
+alert dialog while deleting 
+
+### Week DS:-
+data migration,
+version in db,
+stack,
+memory leak
+limitations of binary search,
+Garbage Collector
+Quadratic time complexity
+Logarithmic time complexity
+remove an element in the end of singly LL
+Insertion in last of doubly LL
+Insert in between in a Doubly LL
+Remove end of Doubly LL
+Recursion Complexity
+Binary search complexity
+how to find the middle element of a linkedlist ?
+Applications of linkedlist ?
+Lacks linkedlist concept clarity ?
+diff b/w recursive and iterative method,
+mergesort,
+time complexity of stack, 
+reversal of string using stack 
+delete the middle element of stack
+apllications of graph and its working
+applications of heap
+time complexity of heap sort
+advnatages of heap sort
+diff b/w binary tree and BST
+
+### Week API:-
+Rest
+Soap
+HTTP methods
+body with POST
+URI
+fromJson
+debouncer,
+jsonDecode
+webservices,
+types of webservices,
+authorization token,
+
+
+### Week state Management:-
+statemanagement,
+flutter architecture,
+types of state,
+changenotifier,
+read- watch in provider,
